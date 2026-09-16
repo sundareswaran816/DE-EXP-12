@@ -47,9 +47,11 @@ module exp_6(out,clk,rst);
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-<img width="1920" height="1080" alt="Screenshot 2026-03-10 193559" src="https://github.com/user-attachments/assets/921ee99f-cf8a-4034-8ffe-801349530e2c" />
+
+![398186331-fe54814b-1638-4c64-bfd2-a119d55c56e6](https://github.com/user-attachments/assets/840ea2e6-0a98-4b14-b2b0-4250e88cd2bc)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1364" height="717" alt="Screenshot 2026-03-10 194359" src="https://github.com/user-attachments/assets/665e827e-2e69-41f5-8fcc-db9e1ecd2c29" />
+
+![398186403-b6fb23ac-e606-4437-86d2-ca34473d7408](https://github.com/user-attachments/assets/eca4885d-0601-421f-8b9b-d623ea91743c)
 
 **RESULTS**
